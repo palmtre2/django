@@ -1,9 +1,11 @@
 .pragmatic_header{
-    text-align: center; margin:2rem 0;
+    text-align: center;
+    margin:2rem 0;
 }
 
 .pragmatic_footer{
-    text-align: center; margin-top:2rem
+    text-align: center;
+    margin-top:2rem
 }
 
 .pragmatic_logo{
@@ -11,5 +13,5 @@
 }
 
 .pragmatic_footer_btn{
-    font-size: 0.6rem;
+    font-size: 0.9rem;
 }
